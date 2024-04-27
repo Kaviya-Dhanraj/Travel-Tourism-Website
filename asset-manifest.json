@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Travel-Tourism-Website/static/css/main.cafbaece.css",
-    "main.js": "/Travel-Tourism-Website/static/js/main.3da1971a.js",
+    "main.js": "/Travel-Tourism-Website/static/js/main.90767d17.js",
     "static/media/hero-video.mp4": "/Travel-Tourism-Website/static/media/hero-video.9e800d0ad3a61e8c12f6.mp4",
     "static/media/remixicon.svg?t=1590207869815": "/Travel-Tourism-Website/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/tour-img06.jpg": "/Travel-Tourism-Website/static/media/tour-img06.61ab969a7f3f172fa8c0.jpg",
@@ -42,10 +42,10 @@
     "static/media/slick.woff": "/Travel-Tourism-Website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Travel-Tourism-Website/index.html",
     "main.cafbaece.css.map": "/Travel-Tourism-Website/static/css/main.cafbaece.css.map",
-    "main.3da1971a.js.map": "/Travel-Tourism-Website/static/js/main.3da1971a.js.map"
+    "main.90767d17.js.map": "/Travel-Tourism-Website/static/js/main.90767d17.js.map"
   },
   "entrypoints": [
     "static/css/main.cafbaece.css",
-    "static/js/main.3da1971a.js"
+    "static/js/main.90767d17.js"
   ]
 }
