@@ -15,7 +15,6 @@ import MasonryImagesGallery from "../components/Image gallery/MasonryImagesGalle
 const Routers = () => {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
       <Route path="/home" element={<Home />} />
       <Route path="/about" element={<AboutPage />} />
       <Route path="/tours" element={<Tours />} />
