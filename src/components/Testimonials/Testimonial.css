@@ -1,0 +1,25 @@
+.testimonial-wrapper {
+  width: 33.33%;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.Slider{
+ border: 1px solid black;
+}
+
+.testimonial-img {
+  width: 80px; 
+  height: 80px; 
+}
+
+@media (min-width: 576px) {
+  .testimonial-img {
+    width: 100px; 
+    height: 100px; 
+  }
+}
+
+.p{
+  margin-bottom: -17px;
+}
